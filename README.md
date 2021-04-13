@@ -4,6 +4,7 @@
 # pyrium
 
 
+
 A cross-platform Discord music bot with a clean interface, and that is easy to set up and run yourself!
 
 ## Features
@@ -17,7 +18,7 @@ A cross-platform Discord music bot with a clean interface, and that is easy to s
   * Supports many online radio/streams
   * Supports local files
   * Playlist support (both web/youtube, and local)
-
+  * My bot Invite link https://discord.com/api/oauth2/authorize?client_id=831441676878217237&permissions=8&scope=bot
 ## Example
 ![Loading Example...](https://i.imgur.com/kVtTKvS.gif)
 
